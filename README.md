@@ -6,14 +6,23 @@ This project demonstrates how Convolutional Neural Networks (CNNs) can be used f
 The model classifies hand gesture images into three categories:
 
 ✊ Rock
+
 ✋ Paper
+
 ✌️ Scissors
+
 The complete pipeline includes:
+
 Dataset loading
+
 Image preprocessing
+
 Model building
+
 Training
+
 Evaluation
+
 Visualization
 
  Dataset
