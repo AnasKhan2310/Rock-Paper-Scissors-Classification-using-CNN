@@ -1,32 +1,22 @@
 # Rock-Paper-Scissors-Classification-using-CNN
 A deep learning image classification project built using TensorFlow/Keras, trained on the Rock–Paper–Scissors dataset from TensorFlow Datasets (TFDS).
 
-🧠 Project Overview
-
+Project Overview
 This project demonstrates how Convolutional Neural Networks (CNNs) can be used for real-world image classification.
 The model classifies hand gesture images into three categories:
 
 ✊ Rock
-
 ✋ Paper
-
 ✌️ Scissors
-
 The complete pipeline includes:
-
 Dataset loading
-
 Image preprocessing
-
 Model building
-
 Training
-
 Evaluation
-
 Visualization
 
-🗂 Dataset
+ Dataset
 
 Dataset: Rock–Paper–Scissors
 Source: TensorFlow Datasets (TFDS)
